@@ -1,3 +1,5 @@
 title: катя иуда
 description: порфтолио
-theme: Hyde
+remote_theme: poole/hyde   
+url: "https://eyumarchenko.github.io/love_for_judas/"
+baseurl: ""
