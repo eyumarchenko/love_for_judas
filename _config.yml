@@ -1,5 +1,20 @@
-title: катя иуда
-description: порфтолио
-remote_theme: poole/hyde   
-url: "https://eyumarchenko.github.io/love_for_judas/"
-baseurl: ""
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Setup
+title:            катя иуда
+tagline:          'портфолио'
+url:              https://eyumarchenko.github.io/love_for_judas/
+baseurl:          /
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/eyumarchenko/love_for_judas
+
+permalink:        /:title/
+
+lang: ru
+locale: ru_RU
