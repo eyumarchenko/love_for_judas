@@ -3,11 +3,19 @@ layout: page
 title: сонграйтинг
 ---
 
-я писала саундтреки к игре, мультфильму и короткометражным фильмам, работаю в программе Logic pro, владею фортепиано, гитарой и бас-гитарой. 
+я писала саундтреки к игре, мультфильму и короткометражным фильмам, работаю в программе Logic pro, владею фортепиано, гитарой и бас-гитарой.
 
-пишу для поп-панк/инди/ранетки-стайл группы [«согласие»](https://bfan.link/soglasie)
+пишу для поп-панк/инди/ранетки-стайл группы «согласие». послушать на [других ресурсах](https://bfan.link/soglasie)
 
-песня в стиле советского романса для игры [«лига энтузиастов неудачников»](https://youtu.be/sTsdS7_NF2s?si=R1_1BUE6QWEeLiPP)
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/artist/5nz0dbzeHwXm9vy9OdXpa2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<div class="audio-card">
+  <div class="audio-meta">
+    <div class="audio-title">песня в стиле советского романса для игры «лига энтузиастов неудачников»</div>
+  </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sTsdS7_NF2s?si=dgb4RvIcEIgWVxk9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <div class="audio-card">
   <div class="audio-meta">

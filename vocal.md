@@ -5,7 +5,14 @@ title: вокал
 
 мой диапазон меццо-сопрано, я владею техниками: бэлтинг, субтон, рэттл, свистковый регистр и некоторыми приёмами экстримального вокала. могу быть так же бэк-вокалисткой, подбирать партии на слух.
 
-советский романс [прогулка](https://www.youtube.com/watch?v=sTsdS7_NF2s)
+<div class="audio-card">
+  <div class="audio-meta">
+    <div class="audio-title">советский романс</div>
+    <div class="audio-subtitle">прогулка</div>
+  </div>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sTsdS7_NF2s?si=PPiPM9tcRNfzIIil" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <div class="audio-card">
   <div class="audio-meta">

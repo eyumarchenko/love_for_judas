@@ -5,7 +5,14 @@ title: озвучка
 
 я занимаюсь озвучкой рекламы, мультфильмов и других проектов, есть своё оборудование, могу работать на дому.
 
-озвучка видео для блогера [(таинственный голос, рассказывающий легенду)](https://t.me/VooDooSh_Stream/6027)
+<div class="audio-card">
+  <div class="audio-meta">
+    <div class="audio-title">озвучка видео для блогера</div>
+    <div class="audio-subtitle">таинственный голос, рассказывающий легенду тон</div>
+  </div>
+
+  <script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="VooDooSh_Stream/6027" data-width="100%"></script>
+</div>
 
 <div class="audio-card">
   <div class="audio-meta">
