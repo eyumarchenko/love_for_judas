@@ -3,7 +3,9 @@ layout: page
 title: вокал
 ---
 
-мой диапазон меццо-сопрано, я владею техниками: бэлтинг, субтон, рэттл, свистковый регистр и некоторыми приёмами экстримального вокала. могу быть так же бэк-вокалисткой, подбирать партии на слух. 
+мой диапазон меццо-сопрано, я владею техниками: бэлтинг, субтон, рэттл, свистковый регистр и некоторыми приёмами экстримального вокала. могу быть так же бэк-вокалисткой, подбирать партии на слух.
+
+советский романс [прогулка](https://www.youtube.com/watch?v=sTsdS7_NF2s)
 
 <div class="audio-card">
   <div class="audio-meta">
@@ -46,16 +48,5 @@ title: вокал
 
   <audio class="audio-player" controls preload="metadata">
     <source src="{{ '/assets/audio/chashki.wav' | relative_url }}" type="audio/wav">
-  </audio>
-</div>
-
-<div class="audio-card">
-  <div class="audio-meta">
-    <div class="audio-title">советский романс</div>
-    <div class="audio-subtitle">прогулка</div>
-  </div>
-
-  <audio class="audio-player" controls preload="metadata">
-    <source src="{{ '/assets/audio/ПУСТО.m4a' | relative_url }}" type="audio/mp4">
   </audio>
 </div>
