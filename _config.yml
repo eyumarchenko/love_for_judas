@@ -6,7 +6,7 @@ highlighter:      pygments
 title:            катя иуда
 tagline:          'портфолио'
 url: "https://eyumarchenko.github.io"
-baseurl: "/love_for_judas"
+baseurl: "/katyaiuda"
 
 # Custom vars
 version:          1.0.0
